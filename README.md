@@ -1,9 +1,9 @@
-**** TIC TAC TOE 
-with reac-hooks
+## TIC TAC TOE 
+#### with reac-hooks
 
 
 
-
+*****
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
